@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is incorrect line
+=======
+this is correct line
+>>>>>>> 101b2927c48242601905cfa050cf9df990c7a7a3
